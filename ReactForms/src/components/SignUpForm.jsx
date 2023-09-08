@@ -11,7 +11,7 @@ export default function SignUpForm() {
         event.preventDefault();
 
         try {
-
+            
         } catch (error) {
             setError(error.message);
         }
